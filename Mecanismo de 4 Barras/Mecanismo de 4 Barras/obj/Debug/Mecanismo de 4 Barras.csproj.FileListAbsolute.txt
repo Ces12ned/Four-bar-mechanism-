@@ -1,0 +1,20 @@
+C:\Users\eedga_000\Documents\UNAM\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\bin\Debug\Mecanismo de 4 Barras.exe.config
+C:\Users\eedga_000\Documents\UNAM\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\bin\Debug\Mecanismo de 4 Barras.exe
+C:\Users\eedga_000\Documents\UNAM\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\bin\Debug\Mecanismo de 4 Barras.pdb
+C:\Users\eedga_000\Documents\UNAM\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo de 4 Barras.csprojResolveAssemblyReference.cache
+C:\Users\eedga_000\Documents\UNAM\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo_de_4_Barras.Form1.resources
+C:\Users\eedga_000\Documents\UNAM\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo_de_4_Barras.Properties.Resources.resources
+C:\Users\eedga_000\Documents\UNAM\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo de 4 Barras.csproj.GenerateResource.Cache
+C:\Users\eedga_000\Documents\UNAM\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo de 4 Barras.exe
+C:\Users\eedga_000\Documents\UNAM\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo de 4 Barras.pdb
+D:\Documentos\UNAM\Licenciatura Mecatrónica\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\bin\Debug\Mecanismo de 4 Barras.exe.config
+D:\Documentos\UNAM\Licenciatura Mecatrónica\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\bin\Debug\Mecanismo de 4 Barras.exe
+D:\Documentos\UNAM\Licenciatura Mecatrónica\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\bin\Debug\Mecanismo de 4 Barras.pdb
+D:\Documentos\UNAM\Licenciatura Mecatrónica\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo_de_4_Barras.Form1.resources
+D:\Documentos\UNAM\Licenciatura Mecatrónica\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo_de_4_Barras.Properties.Resources.resources
+D:\Documentos\UNAM\Licenciatura Mecatrónica\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo de 4 Barras.csproj.GenerateResource.cache
+D:\Documentos\UNAM\Licenciatura Mecatrónica\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo de 4 Barras.exe
+D:\Documentos\UNAM\Licenciatura Mecatrónica\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo de 4 Barras.pdb
+D:\Documentos\UNAM\Licenciatura Mecatrónica\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo de 4 Barras.csproj.CoreCompileInputs.cache
+D:\Documentos\UNAM\Licenciatura Mecatrónica\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo de 4 Barras.csproj.AssemblyReference.cache
+D:\Documentos\UNAM\Licenciatura Mecatrónica\Semestre 7\Técnicas de Programación\Examen\Mecanismo de 4 Barras\Mecanismo de 4 Barras\obj\Debug\Mecanismo de 4 Barras.csproj.SuggestedBindingRedirects.cache
